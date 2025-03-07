@@ -30,10 +30,11 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"MAZE GAME",
   "resources":[
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_down","path":"sprites/spr_down/spr_down.yy",},},
     {"id":{"name":"spr_left","path":"sprites/spr_left/spr_left.yy",},},
