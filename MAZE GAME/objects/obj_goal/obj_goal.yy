@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Object2",
+  "%Name":"obj_goal",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_guy","path":"objects/obj_guy/obj_guy.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object2",
+  "name":"obj_goal",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"handpaintedwall2",
-    "path":"sprites/handpaintedwall2/handpaintedwall2.yy",
+    "name":"pixel_door",
+    "path":"sprites/pixel_door/pixel_door.yy",
   },
   "spriteMaskId":null,
   "visible":true,

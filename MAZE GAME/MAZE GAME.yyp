@@ -37,11 +37,13 @@
   },
   "name":"MAZE GAME",
   "resources":[
+    {"id":{"name":"obj_goal","path":"objects/obj_goal/obj_goal.yy",},},
     {"id":{"name":"obj_guy","path":"objects/obj_guy/obj_guy.yy",},},
-    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
-    {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
+    {"id":{"name":"level_1","path":"rooms/level_1/level_1.yy",},},
+    {"id":{"name":"level_2","path":"rooms/level_2/level_2.yy",},},
     {"id":{"name":"handpaintedwall2","path":"sprites/handpaintedwall2/handpaintedwall2.yy",},},
+    {"id":{"name":"pixel_door","path":"sprites/pixel_door/pixel_door.yy",},},
     {"id":{"name":"spr_down","path":"sprites/spr_down/spr_down.yy",},},
     {"id":{"name":"spr_left","path":"sprites/spr_left/spr_left.yy",},},
     {"id":{"name":"spr_right","path":"sprites/spr_right/spr_right.yy",},},
@@ -50,7 +52,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"level_1","path":"rooms/level_1/level_1.yy",},},
+    {"roomId":{"name":"level_2","path":"rooms/level_2/level_2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
