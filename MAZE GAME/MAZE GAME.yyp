@@ -27,8 +27,8 @@
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "IncludedFiles":[
-    {"$GMIncludedFile":"","%Name":"pixel-art-dungeon-2d-ruined-260nw-2444043333.webp","CopyToMask":-1,"filePath":"datafiles","name":"pixel-art-dungeon-2d-ruined-260nw-2444043333.webp","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
-    {"$GMIncludedFile":"","%Name":"wall","CopyToMask":-1,"filePath":"datafiles","name":"wall","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"pixel-art-dungeon-2d-ruined-260nw-2444043333.webp","CopyToMask":3035426170322551022,"filePath":"datafiles","name":"pixel-art-dungeon-2d-ruined-260nw-2444043333.webp","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"wall","CopyToMask":3035426170322551022,"filePath":"datafiles","name":"wall","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
   "LibraryEmitters":[],
